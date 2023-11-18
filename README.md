@@ -23,4 +23,4 @@ spring.profiles.active=dev
 mvn spring-boot:run
 ```
 
-
+I used this https://github.com/bezkoder/docker-compose-spring-boot-mysql in this repository.
